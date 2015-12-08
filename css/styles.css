@@ -1,0 +1,62 @@
+body {
+	background: url("../img/background.png") no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+	color: #8A92A5;
+	font-family: "HelveticaNeue";
+	padding-top: 10px;
+}
+
+#wrapper {
+	margin: auto;
+	width: 960px;
+}
+#wrapper-logo {
+	text-align: center;
+	padding: 60px 0 30px 0;
+}
+
+#loginbox {
+	background: #FFF;
+	border-top: 5px solid #DD0008;
+	padding: 10px 0 0 0;
+}
+#loginbox h2 {
+	font-size: 26px;
+	color: #4A4A4A;
+	line-height: 40px;
+	letter-spacing: 0px;
+	margin-bottom: 40px
+}
+#loginbox-intro {
+
+}
+#loginbox-form {
+	border-left: 1px solid #979797;
+	min-height: 300px;
+}
+#loginbox-bottom {
+	background: #EFEFEF;
+	margin-top: 25px;
+	padding: 10px 20px;
+}
+
+form label {
+	color: #8A92A5;
+	font-size: 12px;
+	text-transform: uppercase;
+}
+
+.with-padding {
+	padding: 20px;
+}
+.no-margin {
+	margin: 0;
+}
+
+.color-red {
+	color: #DD0008;
+}

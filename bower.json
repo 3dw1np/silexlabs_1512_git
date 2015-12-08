@@ -1,0 +1,18 @@
+{
+  "name": "silexlabs_1512_git",
+  "version": "1.0.0",
+  "authors": [
+    "edwin.polycarpe@gmail.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "~6.0.5"
+  }
+}
